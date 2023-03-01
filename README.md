@@ -1,4 +1,4 @@
-# IFT-6759-Team-13
+# Solar Irradiance Prediction using Deep Learning
 Project 1: Advanced Projects in Machine Learning
 
 `evaluator.py` run with args.
